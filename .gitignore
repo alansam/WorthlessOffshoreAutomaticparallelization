@@ -1,0 +1,9 @@
+main
+*.o
+*.bc
+*.i
+*.ii
+*.s
+*.exe
+/lib
+/obj
